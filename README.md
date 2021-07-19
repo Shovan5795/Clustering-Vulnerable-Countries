@@ -31,15 +31,17 @@ unsupervised CA can be a reliable method to identify the
 vulnerability of different countries generally chosen by migrant
 people.
 
+WORKFLOW
+![Workflow of Vulnerability](https://user-images.githubusercontent.com/77354495/126118477-e2734285-108f-476c-b640-44189960ed36.png)
+
 DATASET DESCRIPTION
+![1](https://user-images.githubusercontent.com/77354495/126118538-7cfc4581-0c7c-47f4-84a7-d99ee086c6b6.JPG)
+![2](https://user-images.githubusercontent.com/77354495/126118540-332042ad-c255-4520-9ec3-fc7d899f229d.JPG)
 
-
-
-
-
-
-
-
-
+RESULT
+![3](https://user-images.githubusercontent.com/77354495/126118567-cc9375f2-8b82-4ac0-9098-ea70c53b5974.JPG)
+![4](https://user-images.githubusercontent.com/77354495/126118572-db02a58b-4942-49dc-86f6-03f2715558f6.JPG)
+![5](https://user-images.githubusercontent.com/77354495/126118574-28e3d0dd-9df9-408f-9338-9f94f516c6d2.JPG)
+![6](https://user-images.githubusercontent.com/77354495/126118577-08d63ff2-8d01-4ec4-b744-a514703f812d.JPG)
 
 
